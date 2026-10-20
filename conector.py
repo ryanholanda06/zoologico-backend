@@ -9,7 +9,7 @@ class Database:
             port="5432",
             database="tutorial",
             user="postgres",
-            password="SUA_SENHA_AQUI"
+            password="Senha123@"
         )
 
     def get_cursor(self):
